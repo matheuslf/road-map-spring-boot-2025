@@ -1,7 +1,5 @@
 # road-map-spring-boot-2025
 
-Spring Boot Roadmap - DEV JUNIOR
-
 ### 1. **Introdução ao Spring Boot**
 
 - Por que o Spring Boot é necessário
@@ -54,8 +52,6 @@ Spring Boot Roadmap - DEV JUNIOR
 - Testes unitários usando Mockito no Spring Boot
 
 ---
-
-# Spring Boot Roadmap 2025 
 
 ### **Tópicos Avançados - Microsserviços**
 
